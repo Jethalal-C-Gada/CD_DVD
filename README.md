@@ -1,1 +1,9 @@
-# CD_DVD
+1. ![Output 1](op1.png)
+2. ![Output 2](op2.png)
+3. ![Output 3](op3.png)
+4. ![Output 4](op4.png)
+5. ![Output 5](op5.png)
+6. ![Output 6](op6.png)
+7. ![Output 7](op7.png)
+8. ![Output 8](op8.png)
+9. ![Output 9](op9.png)
